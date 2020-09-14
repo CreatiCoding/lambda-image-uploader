@@ -1,0 +1,22 @@
+{
+  "name": "lambda-image-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreatiCoding/lambda-image-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreatiCoding/lambda-image-uploader/issues"
+  },
+  "homepage": "https://github.com/CreatiCoding/lambda-image-uploader#readme",
+  "dependencies": {
+    "parse-multipart": "^1.0.4"
+  }
+}
